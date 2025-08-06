@@ -14,7 +14,7 @@
 ---
 
 🎯 **Interested in data-driven decision making and the application of advanced mathematics and machine learning in modern data science.**  
-🧪 **Currently at** [IBS Biomedical Mathematics Group](https://www.ibs.re.kr/bimag/) (*Machine Learning Intern*), working on modeling biological systems and analyzing sleep time-series data.
+🧪 **Currently at** [IBS Biomedical Mathematics Group](https://www.ibs.re.kr/bimag/) (*Machine Learning and Mathematical Modeling researcher*), working on modeling biological systems and analyzing sleep time-series data.
 
 ---
 

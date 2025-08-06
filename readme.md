@@ -60,7 +60,7 @@ If you're interested in AI/ML projects, data assimilation, or building systems �
 
 <p align="center">
   <a href="mailto:adnansadik235@kaist.ac.kr">📬 Email</a> • 
-  <a href="https://www.chess.com/member/adnansadik/stats/rapid">♟️ Top 0.2% on Chess.com</a>
+  
 </p>
 
 ---

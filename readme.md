@@ -56,7 +56,7 @@
 
 ### 🤝 Let’s Connect!
 
-If you're interested in AI/ML projects, data assimilation, or building systems — feel free to reach out!
+If you're interested in AI/ML projects, applied mathematics, or building systems — feel free to reach out!
 
 <p align="center">
   <a href="mailto:adnansadik235@kaist.ac.kr">📬 Email</a> • 

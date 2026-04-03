@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D95F18&center=true&vCenter=true&width=500&lines=IMO+Bronze+Medalist+%2720+%2721;KAIST+Mathematical+Sciences;LLM+Inference+%40+Huawei+Theory+Lab;CUDA+%C2%B7+PyTorch+%C2%B7+C%2B%2B+%C2%B7+Python;Candidate+Master+%C2%B7+Codeforces" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D95F18&center=true&vCenter=true&width=560&lines=Applied+Mathematics+%C2%B7+Statistical+decision+making+%C2%B7+AI+systems;from+measure+theory+to+GPU+memory+hierarchies;decisions+under+uncertainty%2C+rigorously;where+math+actually+constrains+what+you+build" alt="Typing SVG"/>
 </p>
 
 ---
@@ -17,8 +17,8 @@ I work at the intersection of mathematical modeling, systems, and ML — with a 
 ### Now
 
 - **Huawei Theory Lab** — LLM inference algorithms, CUDA kernels, KV cache management for hybrid attention/Mamba architectures  
-- **KAIST** — 3rd year, Department of Mathematical Sciences  
-- **WorldQuant Brain** — Consultant; crypto alpha signal research
+- **KAIST** — 3rd year, Department of Mathematical Sciences  , School of Computing
+- **WorldQuant Brain** — Consultant; Alpha research for a long short neutral hedge fund.
 
 ---
 
@@ -26,7 +26,7 @@ I work at the intersection of mathematical modeling, systems, and ML — with a 
 
 | | |
 |---|---|
-| **IBS Biomedical Mathematics Group** | Deep learning for sleep disorder classification from multimodal physiological time series. Inductive bias design under limited data. |
+| **IBS Center for Computational Matheamtics ** | Deep learning for sleep disorder classification from multimodal physiological time series. Inductive bias design under limited data. |
 | **KAIST Users & Info Lab** | Built cultural NLP benchmark for low-resource languages; evaluated chain-of-thought breakdown across language contexts. Paper accepted at **AACL-IJCNLP 2025 Workshop**. |
 | **KAIST Data Strategy Lab** | Pre/in/post-training bias mitigation in foundation models. |
 
@@ -46,17 +46,6 @@ Modular crypto alpha pipeline. ~52% hit rate, Sharpe > 1 with ensemble models an
 **[Yut AI](https://github.com/yayme/COE-Yutnori)**  
 Minimax agent with Bayesian-optimized policy weights for Korean board game Yutnori. 56.5% win rate over baseline.
 
----
-
-### Competitions
-
-- 🥉 IMO 2020, 2021  
-- 🥉 APMO 2021, 2022  
-- 🥉 Bangladesh Olympiad in Informatics 2022  
-- Simon Marais Mathematics Competition 2024 — Top Quartile, Best-in-University Jane Street Prize  
-- Codeforces **Candidate Master** (94th percentile) · Codechef **5★** (99th percentile)
-
----
 
 ### Stack
 

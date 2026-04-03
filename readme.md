@@ -1,71 +1,74 @@
-<h1 align="center">Hi there, I'm Adnan Sadik 👋</h1>
-
 <p align="center">
-  🎓 Math & CS @ KAIST | 🧠 Exploring ML, Quant, and Statistics | 🇰🇷 Based in South Korea  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D95F18&height=110&section=header&fontColor=fff&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://yayme.github.io/">🌐 Website</a> •
-  <a href="https://github.com/yayme">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/adnan-sadik/">🔗 LinkedIn</a> •
-  <a href="https://scholar.google.com/citations?user=fAIOqccAAAAJ&hl=en">📚 Google Scholar</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D95F18&center=true&vCenter=true&width=500&lines=IMO+Bronze+Medalist+%2720+%2721;KAIST+Mathematical+Sciences;LLM+Inference+%40+Huawei+Theory+Lab;CUDA+%C2%B7+PyTorch+%C2%B7+C%2B%2B+%C2%B7+Python;Candidate+Master+%C2%B7+Codeforces" alt="Typing SVG"/>
 </p>
 
 ---
 
-🎯 **Interested in data-driven decision making and the application of advanced mathematics and machine learning in modern data science.**  
-🧪 **Currently at** Huawei studying AI systems and optimization. **Previously at** [IBS Biomedical Mathematics Group](https://www.ibs.re.kr/bimag/) (*Machine Learning and Mathematical Modeling researcher*), working on modeling biological systems and analyzing sleep time-series data.
+Math @ KAIST · IMO Bronze '20 '21 · Codeforces Candidate Master
+
+I work at the intersection of mathematical modeling, systems, and ML — with a bias toward problems where theory actually constrains what you can build.
 
 ---
 
-### 🧰 Tech Stack
+### Now
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![F#](https://img.shields.io/badge/-F%23-333?style=flat&logo=fsharp)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-
-**ML / DS Libraries**  
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![XGBoost](https://img.shields.io/badge/-XGBoost-333?style=flat)
-![CatBoost](https://img.shields.io/badge/-CatBoost-333?style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
-
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Shell](https://img.shields.io/badge/-Shell-333?style=flat&logo=gnu-bash)
-![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
-![VSCode](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
+- **Huawei Theory Lab** — LLM inference algorithms, CUDA kernels, KV cache management for hybrid attention/Mamba architectures  
+- **KAIST** — 3rd year, Department of Mathematical Sciences  
+- **WorldQuant Brain** — Consultant; crypto alpha signal research
 
 ---
 
-### 📌 Featured Projects
+### Research
 
-| Project | Description |
-|--------|-------------|
-| 🔁 [**Data Assimilation**](https://github.com/yayme/Data-Assimilation) | Implemented Kalman, EKF, Particle, and Alpha-Beta filters for dynamic state estimation. Modular and well-documented. |
-| 📁 [**AI File Organizer**](https://github.com/yayme/Desktop_file_organizer) | Built a real-time file sorter using spaCy for semantic categorization. Boosted productivity by 40%. |
-| 📊 [**SignalCraft**](https://github.com/yayme/Crypto-SignalCraft) | Designed an alpha signal testing system with ensemble models and robust backtesting logic for crypto trading. |
-| 🏥 [**Statistical Decision Making**](https://github.com/yayme/Statistical-Decision-Making) | Applied Bayesian methods and classification to healthcare predictions — achieved high AUCs & cost savings. |
+| | |
+|---|---|
+| **IBS Biomedical Mathematics Group** | Deep learning for sleep disorder classification from multimodal physiological time series. Inductive bias design under limited data. |
+| **KAIST Users & Info Lab** | Built cultural NLP benchmark for low-resource languages; evaluated chain-of-thought breakdown across language contexts. Paper accepted at **AACL-IJCNLP 2025 Workshop**. |
+| **KAIST Data Strategy Lab** | Pre/in/post-training bias mitigation in foundation models. |
 
 ---
 
-### 🤝 Let’s Connect!
+### Selected Projects
 
-If you're interested in AI/ML projects, applied mathematics, or building systems — feel free to reach out!
+**[Sparse Attention CUDA Kernel](https://github.com/yayme/CUDA-kernel)**  
+Longformer-style sparse attention with Flash Attention online softmax. 1.8× speedup, O(n·w) complexity, O(1) memory.
+
+**[Volatility Inference with SDEs](https://github.com/yayme/Volatility-Inference-with-SDEs-Data-Assimilation)**  
+Heston-lite and OU SDEs with Kalman/Particle filters for crypto volatility estimation. R² ≈ 0.9 across both pipelines vs ~0.13–0.48 for GARCH baselines.
+
+**[SignalCraft](https://github.com/yayme/Crypto-SignalCraft)**  
+Modular crypto alpha pipeline. ~52% hit rate, Sharpe > 1 with ensemble models and adaptive execution.
+
+**[Yut AI](https://github.com/yayme/COE-Yutnori)**  
+Minimax agent with Bayesian-optimized policy weights for Korean board game Yutnori. 56.5% win rate over baseline.
+
+---
+
+### Competitions
+
+- 🥉 IMO 2020, 2021  
+- 🥉 APMO 2021, 2022  
+- 🥉 Bangladesh Olympiad in Informatics 2022  
+- Simon Marais Mathematics Competition 2024 — Top Quartile, Best-in-University Jane Street Prize  
+- Codeforces **Candidate Master** (94th percentile) · Codechef **5★** (99th percentile)
+
+---
+
+### Stack
+
+`Python` `C++` `CUDA` `PyTorch` `NumPy` `SQL` `JavaScript` `F#` `Scala`  
+`PostgreSQL` `Docker` `FastAPI` `Django`
+
+---
 
 <p align="center">
-  <a href="mailto:adnansadik235@kaist.ac.kr">📬 Email</a> • 
-  
+  <img src="https://streak-stats.demolab.com?user=yayme&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=D95F18&fire=D95F18&currStreakLabel=D95F18" height="130"/>
 </p>
-
----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yayme&show_icons=true&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D95F18&height=80&section=footer" width="100%"/>
 </p>
-

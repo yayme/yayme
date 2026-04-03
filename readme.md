@@ -8,9 +8,9 @@
 
 ---
 
-Math @ KAIST · IMO Bronze '20 '21 · Codeforces Candidate Master
+Math @ KAIST · IMO Bronze '20 '21 · AI @Huawei . Computational Mathematics @IBS
 
-I work at the intersection of mathematical modeling, systems, and ML — with a bias toward problems where theory actually constrains what you can build.
+I am interested at the intersection of mathematical modeling, systems, and AI , with a bias toward problems where theory actually constrains what you can build.
 
 ---
 

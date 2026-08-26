@@ -3,22 +3,31 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D95F18&center=true&vCenter=true&width=560&lines=Applied+Mathematics+%C2%B7+Statistical+decision+making+%C2%B7+AI+systems;from+measure+theory+to+GPU+memory+hierarchies;decisions+under+uncertainty%2C+rigorously;where+math+actually+constrains+what+you+build" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=D95F18&center=true&vCenter=true&width=600&lines=Applied+Mathematics+%C2%B7+Quantitative+Research+%C2%B7+AI+Systems;stochastic+processes%2C+alpha+signals%2C+GPU+kernels;decisions+under+uncertainty%2C+rigorously;where+math+actually+constrains+what+you+build" alt="Typing SVG"/>
 </p>
 
 ---
 
-Math @ KAIST · IMO Bronze '20 '21 · AI @Huawei . Computational Mathematics @IBS
+Mathematics + Computer Science @ KAIST · IMO Bronze '20 '21 · Quant Research @WorldQuant · ML @HayanMind · AI @Huawei · Computational Mathematics @IBS
 
-I am interested at the intersection of mathematical modeling, systems, and AI , with a bias toward problems where theory actually constrains what you can build.
+I work at the intersection of mathematical modeling, systems, and AI — with a bias toward problems where theory actually constrains what you can build, and where you find out quickly whether you were right.
 
 ---
 
 ### Now
 
-- **Huawei Theory Lab** — LLM inference algorithms, CUDA kernels, KV cache management for hybrid attention/Mamba architectures  
-- **KAIST** — 3rd year, Department of Mathematical Sciences  , School of Computing
-- **WorldQuant Brain** — Consultant; Alpha research for a long short neutral hedge fund.
+- **KAIST** — 4th year, Department of Mathematical Sciences · School of Computing. B.S. Mathematics and Computer Science (double major), graduating Dec 2027.
+- **WorldQuant BRAIN** — Quant Research Consultant. Cross-sectional equity alpha for a long-short market-neutral book: fundamentals, analyst estimates, options analytics, volatility surfaces, news/sentiment, alternative data. **Gold Medalist, WorldQuant Challenge.**
+
+---
+
+### Experience
+
+| | |
+|---|---|
+| **HayanMind** — ML Engineer Intern, R&D <br/>*Jun–Aug 2026* | Dynamic pricing on Contextual Thompson Sampling with Transformer sequential encoders. Hawkes processes for rare-event purchase modeling — **+46% PR-AUC** on sparse data. Off-policy evaluation via counterfactual simulators and regret curves; proposed a cost-aware retraining policy framework. |
+| **Huawei** — R&D Intern, Hong Kong <br/>*Jan–Mar 2026* | LLM inference algorithms for hybrid attention/Mamba architectures. CUDA kernels, KV cache management, throughput/latency/memory optimization in C++ across vLLM, SGLang and TensorRT. Owned benchmarking and profiling of the serving path. |
+| **IBS** — ML Research Intern <br/>Center for Mathematical and Computational Sciences · *Dec 2024–Dec 2025* | Deep learning for sleep disorder classification from multimodal physiological time series; inductive bias design under limited data. Stochastic modeling of non-Markovian delays in birth–death processes via likelihood methods and physics-informed neural networks. |
 
 ---
 
@@ -26,30 +35,46 @@ I am interested at the intersection of mathematical modeling, systems, and AI , 
 
 | | |
 |---|---|
-| **IBS Center for Computational Matheamtics ** | Deep learning for sleep disorder classification from multimodal physiological time series. Inductive bias design under limited data. |
-| **KAIST Users & Info Lab** | Built cultural NLP benchmark for low-resource languages; evaluated chain-of-thought breakdown across language contexts. Paper accepted at **AACL-IJCNLP 2025 Workshop**. |
+| **KAIST Users & Information Lab** | Cultural NLP benchmark for low-resource languages; evaluated chain-of-thought breakdown across language contexts. Paper accepted at **AACL-IJCNLP 2025 Workshop** · [ACL Anthology](https://aclanthology.org/2025.banglalp-1.14/) |
 | **KAIST Data Strategy Lab** | Pre/in/post-training bias mitigation in foundation models. |
 
 ---
 
 ### Selected Projects
 
-**[Sparse Attention CUDA Kernel](https://github.com/yayme/CUDA-kernel)**  
-Longformer-style sparse attention with Flash Attention online softmax. 1.8× speedup, O(n·w) complexity, O(1) memory.
+**[Volatility Inference with SDEs](https://github.com/yayme/Volatility-Inference-with-SDEs-Data-Assimilation)**
+Heston-lite and OU stochastic volatility models with Kalman and particle filters for crypto vol estimation. R² ≈ 0.9 across both pipelines vs ~0.13–0.48 for GARCH baselines.
 
-**[Volatility Inference with SDEs](https://github.com/yayme/Volatility-Inference-with-SDEs-Data-Assimilation)**  
-Heston-lite and OU SDEs with Kalman/Particle filters for crypto volatility estimation. R² ≈ 0.9 across both pipelines vs ~0.13–0.48 for GARCH baselines.
-
-**[SignalCraft](https://github.com/yayme/Crypto-SignalCraft)**  
+**[SignalCraft](https://github.com/yayme/Crypto-SignalCraft)**
 Modular crypto alpha pipeline. ~52% hit rate, Sharpe > 1 with ensemble models and adaptive execution.
 
-**[Yut AI](https://github.com/yayme/COE-Yutnori)**  
-Minimax agent with Bayesian-optimized policy weights for Korean board game Yutnori. 56.5% win rate over baseline.
+**[Sparse Attention CUDA Kernel](https://github.com/yayme/CUDA-kernel)**
+Longformer-style sparse attention with Flash Attention online softmax. 1.4–1.8× speedup, O(n·w) complexity, O(1) per-thread memory. Benchmarked against dense PyTorch attention on T4.
 
+**[Yut AI](https://github.com/yayme/COE-Yutnori)**
+Minimax agent with Bayesian-optimized policy weights for the Korean board game Yutnori. 56.5% win rate over baseline.
+
+**Multi-Agent AI Wellness Platform** — *funded by Samsung Insurance Lifenology Lab*
+Led a cross-functional entrepreneurial team; owned technical direction. LangGraph multi-agent orchestration with RAG under human-in-the-loop decision constraints.
+
+---
+
+### Honors
+
+- **Bronze Medalist**, International Mathematical Olympiad (IMO) — 2020, 2021
+- **Bronze Medalist**, Asian Pacific Mathematical Olympiad (APMO) — 2021, 2022
+- **Jane Street Prize · Best-in-University**, Simon Marais Mathematics Competition — 2024
+- **Bronze Medalist**, Bangladesh Olympiad in Informatics — 2022
+- **Gold Medalist**, WorldQuant Challenge
+- Dean's List (Top 2%) · KAIplus Scholar · ISSS Scholar
+- Top 0.1% rapid on [Chess.com](https://www.chess.com/member/adnansadik/stats/rapid)
+
+---
 
 ### Stack
 
-`Python` `C++` `CUDA` `PyTorch` `NumPy` `SQL` `JavaScript` `F#` `Scala`  
+`Python` `C++` `CUDA` `C` `F#` `Scala` `SQL` `JavaScript`
+`PyTorch` `NumPy` `pandas` `SciPy` `scikit-learn` `vLLM` `SGLang` `TensorRT` `LangGraph`
 `PostgreSQL` `Docker` `FastAPI` `Django`
 
 ---

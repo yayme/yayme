@@ -8,7 +8,7 @@
 
 ---
 
-Mathematics + Computer Science @ KAIST · IMO Bronze '20 '21 · Quant Research @WorldQuant · ML @HayanMind · AI @Huawei · Computational Mathematics @IBS
+Mathematics + Computer Science @ KAIST · IMO Bronze '20 '21 ·ML @HayanMind · AI @Huawei · Computational Mathematics @IBS
 
 I work at the intersection of mathematical modeling, systems, and AI — with a bias toward problems where theory actually constrains what you can build, and where you find out quickly whether you were right.
 

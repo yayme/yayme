@@ -42,11 +42,6 @@ I work at the intersection of mathematical modeling, systems, and AI — with a 
 
 ### Selected Projects
 
-**[Volatility Inference with SDEs](https://github.com/yayme/Volatility-Inference-with-SDEs-Data-Assimilation)**
-Heston-lite and OU stochastic volatility models with Kalman and particle filters for crypto vol estimation.
-
-**[SignalCraft](https://github.com/yayme/Crypto-SignalCraft)**
-Modular crypto alpha pipeline. ~52% hit rate, Sharpe > 1 with ensemble models and adaptive execution.
 
 **[Sparse Attention CUDA Kernel](https://github.com/yayme/CUDA-kernel)**
 Longformer-style sparse attention with Flash Attention online softmax. 1.4–1.8× speedup, O(n·w) complexity, O(1) per-thread memory. Benchmarked against dense PyTorch attention on T4.
